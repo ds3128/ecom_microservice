@@ -1,0 +1,11 @@
+org\ds\productservice\dto\ProductResponseDTO$ProductResponseDTOBuilder.class
+org\ds\productservice\dto\ProductResponseDTO.class
+org\ds\productservice\entities\Product$ProductBuilder.class
+org\ds\productservice\dto\ProductRequestDTO$ProductRequestDTOBuilder.class
+org\ds\productservice\dto\ProductRequestDTO.class
+org\ds\productservice\services\ProductService.class
+org\ds\productservice\web\ProductRestController.class
+org\ds\productservice\services\ProductServiceImpl.class
+org\ds\productservice\entities\Product.class
+org\ds\productservice\repositories\ProductRepository.class
+org\ds\productservice\ProductServiceApplication.class
